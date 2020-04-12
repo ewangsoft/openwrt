@@ -1,0 +1,21 @@
+[submodule "package/v2ray"]
+	path = package/v2ray
+	url = https://github.com/kuoruan/openwrt-v2ray.git
+[submodule "package/luci-app-v2ray"]
+	path = package/luci-app-v2ray
+	url = https://github.com/kuoruan/luci-app-v2ray.git
+[submodule "package/luci-app-vlmcsd"]
+	path = package/luci-app-vlmcsd
+	url = https://github.com/mchome/luci-app-vlmcsd.git
+[submodule "package/vlmcsd"]
+	path = package/vlmcsd
+	url = https://github.com/mchome/openwrt-vlmcsd.git
+[submodule "package/shadowsocksr"]
+	path = package/shadowsocksr
+	url = https://github.com/honwen/openwrt-shadowsocksr.git
+[submodule "package/luci-app-shadowsocksr"]
+	path = package/luci-app-shadowsocksr
+	url = https://github.com/honwen/luci-app-shadowsocksr.git
+[submodule "package/mtk"]
+	path = package/mtk
+	url = https://github.com/thisdk/mtk-openwrt-mt7615-k2p.git
